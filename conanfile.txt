@@ -1,0 +1,6 @@
+[requires]
+clipp/1.2.3
+
+[generators]
+CMakeDeps
+CMakeToolchain
