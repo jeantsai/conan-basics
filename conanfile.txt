@@ -1,5 +1,6 @@
 [requires]
 clipp/1.2.3
+gtest/1.8.1
 
 [generators]
 CMakeDeps
